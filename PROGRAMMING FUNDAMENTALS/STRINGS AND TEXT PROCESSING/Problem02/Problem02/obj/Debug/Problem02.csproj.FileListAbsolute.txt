@@ -1,0 +1,6 @@
+C:\Users\stanimir\Desktop\SoftUni\STRINGS AND TEXT PROCESSING\Problem02\Problem02\bin\Debug\Problem02.exe.config
+C:\Users\stanimir\Desktop\SoftUni\STRINGS AND TEXT PROCESSING\Problem02\Problem02\bin\Debug\Problem02.exe
+C:\Users\stanimir\Desktop\SoftUni\STRINGS AND TEXT PROCESSING\Problem02\Problem02\bin\Debug\Problem02.pdb
+C:\Users\stanimir\Desktop\SoftUni\STRINGS AND TEXT PROCESSING\Problem02\Problem02\obj\Debug\Problem02.csproj.CoreCompileInputs.cache
+C:\Users\stanimir\Desktop\SoftUni\STRINGS AND TEXT PROCESSING\Problem02\Problem02\obj\Debug\Problem02.exe
+C:\Users\stanimir\Desktop\SoftUni\STRINGS AND TEXT PROCESSING\Problem02\Problem02\obj\Debug\Problem02.pdb

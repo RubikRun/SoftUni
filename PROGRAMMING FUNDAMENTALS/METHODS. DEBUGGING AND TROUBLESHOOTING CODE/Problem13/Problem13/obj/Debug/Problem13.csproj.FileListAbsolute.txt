@@ -1,0 +1,6 @@
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem13\Problem13\bin\Debug\Problem13.exe.config
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem13\Problem13\obj\Debug\Problem13.csprojResolveAssemblyReference.cache
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem13\Problem13\bin\Debug\Problem13.exe
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem13\Problem13\bin\Debug\Problem13.pdb
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem13\Problem13\obj\Debug\Problem13.exe
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem13\Problem13\obj\Debug\Problem13.pdb

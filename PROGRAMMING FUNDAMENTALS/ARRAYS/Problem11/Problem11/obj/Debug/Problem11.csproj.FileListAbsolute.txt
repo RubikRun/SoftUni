@@ -1,0 +1,5 @@
+C:\Users\stanimir\Desktop\SoftUni\ARRAYS\Problem11\Problem11\bin\Debug\Problem11.exe.config
+C:\Users\stanimir\Desktop\SoftUni\ARRAYS\Problem11\Problem11\bin\Debug\Problem11.exe
+C:\Users\stanimir\Desktop\SoftUni\ARRAYS\Problem11\Problem11\bin\Debug\Problem11.pdb
+C:\Users\stanimir\Desktop\SoftUni\ARRAYS\Problem11\Problem11\obj\Debug\Problem11.exe
+C:\Users\stanimir\Desktop\SoftUni\ARRAYS\Problem11\Problem11\obj\Debug\Problem11.pdb

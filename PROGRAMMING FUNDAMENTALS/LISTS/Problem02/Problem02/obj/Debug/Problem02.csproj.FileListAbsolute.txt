@@ -1,0 +1,6 @@
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem02\Problem02\bin\Debug\Problem02.exe.config
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem02\Problem02\bin\Debug\Problem02.exe
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem02\Problem02\bin\Debug\Problem02.pdb
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem02\Problem02\obj\Debug\Problem02.exe
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem02\Problem02\obj\Debug\Problem02.pdb
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem02\Problem02\obj\Debug\Problem02.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem07\Problem07\bin\Debug\Problem07.exe.config
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem07\Problem07\bin\Debug\Problem07.exe
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem07\Problem07\bin\Debug\Problem07.pdb
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem07\Problem07\obj\Debug\Problem07.csprojResolveAssemblyReference.cache
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem07\Problem07\obj\Debug\Problem07.exe
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem07\Problem07\obj\Debug\Problem07.pdb

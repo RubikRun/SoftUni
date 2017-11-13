@@ -1,0 +1,5 @@
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem06\Problem06\bin\Debug\Problem06.exe.config
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem06\Problem06\bin\Debug\Problem06.exe
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem06\Problem06\bin\Debug\Problem06.pdb
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem06\Problem06\obj\Debug\Problem06.exe
+C:\Users\stanimir\Desktop\SoftUni\LISTS\Problem06\Problem06\obj\Debug\Problem06.pdb

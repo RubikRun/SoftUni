@@ -1,0 +1,6 @@
+C:\Users\stanimir\Desktop\SoftUni\Problem5 - Basic Syntax\Problem5 - Basic Syntax\bin\Debug\Problem5 - Basic Syntax.exe.config
+C:\Users\stanimir\Desktop\SoftUni\Problem5 - Basic Syntax\Problem5 - Basic Syntax\bin\Debug\Problem5 - Basic Syntax.exe
+C:\Users\stanimir\Desktop\SoftUni\Problem5 - Basic Syntax\Problem5 - Basic Syntax\bin\Debug\Problem5 - Basic Syntax.pdb
+C:\Users\stanimir\Desktop\SoftUni\Problem5 - Basic Syntax\Problem5 - Basic Syntax\obj\Debug\Problem5 - Basic Syntax.csprojResolveAssemblyReference.cache
+C:\Users\stanimir\Desktop\SoftUni\Problem5 - Basic Syntax\Problem5 - Basic Syntax\obj\Debug\Problem5 - Basic Syntax.exe
+C:\Users\stanimir\Desktop\SoftUni\Problem5 - Basic Syntax\Problem5 - Basic Syntax\obj\Debug\Problem5 - Basic Syntax.pdb

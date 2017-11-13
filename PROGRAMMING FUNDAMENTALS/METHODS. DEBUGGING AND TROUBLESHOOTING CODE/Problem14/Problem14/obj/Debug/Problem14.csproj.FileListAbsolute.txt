@@ -1,0 +1,5 @@
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem14\Problem14\bin\Debug\Problem14.exe.config
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem14\Problem14\bin\Debug\Problem14.exe
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem14\Problem14\bin\Debug\Problem14.pdb
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem14\Problem14\obj\Debug\Problem14.exe
+C:\Users\stanimir\Desktop\SoftUni\METHODS. DEBUGGING AND TROUBLESHOOTING CODE - EXERCISES\Problem14\Problem14\obj\Debug\Problem14.pdb

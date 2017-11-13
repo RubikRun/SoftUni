@@ -1,0 +1,6 @@
+C:\Users\stanimir\Desktop\SoftUni\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Problem05\Problem05\bin\Debug\Problem05.exe.config
+C:\Users\stanimir\Desktop\SoftUni\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Problem05\Problem05\bin\Debug\Problem05.exe
+C:\Users\stanimir\Desktop\SoftUni\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Problem05\Problem05\bin\Debug\Problem05.pdb
+C:\Users\stanimir\Desktop\SoftUni\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Problem05\Problem05\obj\Debug\Problem05.csprojResolveAssemblyReference.cache
+C:\Users\stanimir\Desktop\SoftUni\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Problem05\Problem05\obj\Debug\Problem05.exe
+C:\Users\stanimir\Desktop\SoftUni\DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\Problem05\Problem05\obj\Debug\Problem05.pdb

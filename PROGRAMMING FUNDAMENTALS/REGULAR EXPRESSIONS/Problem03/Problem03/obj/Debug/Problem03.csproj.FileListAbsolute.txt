@@ -1,0 +1,7 @@
+C:\Users\stanimir\Desktop\SoftUni\REGULAR EXPRESSIONS\Problem03\Problem03\bin\Debug\Problem03.exe.config
+C:\Users\stanimir\Desktop\SoftUni\REGULAR EXPRESSIONS\Problem03\Problem03\bin\Debug\Problem03.exe
+C:\Users\stanimir\Desktop\SoftUni\REGULAR EXPRESSIONS\Problem03\Problem03\bin\Debug\Problem03.pdb
+C:\Users\stanimir\Desktop\SoftUni\REGULAR EXPRESSIONS\Problem03\Problem03\obj\Debug\Problem03.csproj.CoreCompileInputs.cache
+C:\Users\stanimir\Desktop\SoftUni\REGULAR EXPRESSIONS\Problem03\Problem03\obj\Debug\Problem03.exe
+C:\Users\stanimir\Desktop\SoftUni\REGULAR EXPRESSIONS\Problem03\Problem03\obj\Debug\Problem03.pdb
+C:\Users\stanimir\Desktop\SoftUni\REGULAR EXPRESSIONS\Problem03\Problem03\obj\Debug\Problem03.csprojResolveAssemblyReference.cache

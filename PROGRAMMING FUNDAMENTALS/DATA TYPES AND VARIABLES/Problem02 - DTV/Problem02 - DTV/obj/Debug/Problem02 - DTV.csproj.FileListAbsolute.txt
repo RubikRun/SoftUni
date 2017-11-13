@@ -1,0 +1,6 @@
+C:\Users\stanimir\Desktop\SoftUni\DATA TYPES AND VARIABLES - EXERCISES\Problem02 - DTV\Problem02 - DTV\bin\Debug\Problem02 - DTV.exe.config
+C:\Users\stanimir\Desktop\SoftUni\DATA TYPES AND VARIABLES - EXERCISES\Problem02 - DTV\Problem02 - DTV\bin\Debug\Problem02 - DTV.exe
+C:\Users\stanimir\Desktop\SoftUni\DATA TYPES AND VARIABLES - EXERCISES\Problem02 - DTV\Problem02 - DTV\bin\Debug\Problem02 - DTV.pdb
+C:\Users\stanimir\Desktop\SoftUni\DATA TYPES AND VARIABLES - EXERCISES\Problem02 - DTV\Problem02 - DTV\obj\Debug\Problem02 - DTV.csprojResolveAssemblyReference.cache
+C:\Users\stanimir\Desktop\SoftUni\DATA TYPES AND VARIABLES - EXERCISES\Problem02 - DTV\Problem02 - DTV\obj\Debug\Problem02 - DTV.exe
+C:\Users\stanimir\Desktop\SoftUni\DATA TYPES AND VARIABLES - EXERCISES\Problem02 - DTV\Problem02 - DTV\obj\Debug\Problem02 - DTV.pdb
