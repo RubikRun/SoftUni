@@ -1,0 +1,11 @@
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\bin\Debug\netcoreapp2.0\Problem02.deps.json
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\bin\Debug\netcoreapp2.0\Problem02.runtimeconfig.json
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\bin\Debug\netcoreapp2.0\Problem02.runtimeconfig.dev.json
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\bin\Debug\netcoreapp2.0\Problem02.dll
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\bin\Debug\netcoreapp2.0\Problem02.pdb
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\obj\Debug\netcoreapp2.0\Problem02.csprojResolveAssemblyReference.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\obj\Debug\netcoreapp2.0\Problem02.csproj.CoreCompileInputs.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\obj\Debug\netcoreapp2.0\Problem02.AssemblyInfoInputs.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\obj\Debug\netcoreapp2.0\Problem02.AssemblyInfo.cs
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\obj\Debug\netcoreapp2.0\Problem02.dll
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem02\Problem02\obj\Debug\netcoreapp2.0\Problem02.pdb

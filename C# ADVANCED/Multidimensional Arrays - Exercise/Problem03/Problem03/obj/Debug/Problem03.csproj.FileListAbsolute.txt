@@ -1,0 +1,7 @@
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem03\Problem03\bin\Debug\Problem03.exe.config
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem03\Problem03\bin\Debug\Problem03.exe
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem03\Problem03\bin\Debug\Problem03.pdb
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem03\Problem03\obj\Debug\Problem03.csprojResolveAssemblyReference.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem03\Problem03\obj\Debug\Problem03.csproj.CoreCompileInputs.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem03\Problem03\obj\Debug\Problem03.exe
+C:\Programming\SoftUniLocal\C# ADVANCED\Multidimensional Arrays - Exercise\Problem03\Problem03\obj\Debug\Problem03.pdb

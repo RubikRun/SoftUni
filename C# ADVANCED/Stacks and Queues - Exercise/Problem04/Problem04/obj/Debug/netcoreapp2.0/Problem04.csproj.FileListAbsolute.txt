@@ -1,0 +1,11 @@
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\bin\Debug\netcoreapp2.0\Problem04.deps.json
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\bin\Debug\netcoreapp2.0\Problem04.runtimeconfig.json
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\bin\Debug\netcoreapp2.0\Problem04.runtimeconfig.dev.json
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\bin\Debug\netcoreapp2.0\Problem04.dll
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\bin\Debug\netcoreapp2.0\Problem04.pdb
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\obj\Debug\netcoreapp2.0\Problem04.csprojResolveAssemblyReference.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\obj\Debug\netcoreapp2.0\Problem04.csproj.CoreCompileInputs.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\obj\Debug\netcoreapp2.0\Problem04.AssemblyInfoInputs.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\obj\Debug\netcoreapp2.0\Problem04.AssemblyInfo.cs
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\obj\Debug\netcoreapp2.0\Problem04.dll
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem04\Problem04\obj\Debug\netcoreapp2.0\Problem04.pdb

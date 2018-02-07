@@ -1,0 +1,11 @@
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\bin\Debug\netcoreapp2.0\Problem03.deps.json
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\bin\Debug\netcoreapp2.0\Problem03.runtimeconfig.json
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\bin\Debug\netcoreapp2.0\Problem03.runtimeconfig.dev.json
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\bin\Debug\netcoreapp2.0\Problem03.dll
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\bin\Debug\netcoreapp2.0\Problem03.pdb
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\obj\Debug\netcoreapp2.0\Problem03.csprojResolveAssemblyReference.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\obj\Debug\netcoreapp2.0\Problem03.csproj.CoreCompileInputs.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\obj\Debug\netcoreapp2.0\Problem03.AssemblyInfoInputs.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\obj\Debug\netcoreapp2.0\Problem03.AssemblyInfo.cs
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\obj\Debug\netcoreapp2.0\Problem03.dll
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Lab\Problem03\Problem03\obj\Debug\netcoreapp2.0\Problem03.pdb

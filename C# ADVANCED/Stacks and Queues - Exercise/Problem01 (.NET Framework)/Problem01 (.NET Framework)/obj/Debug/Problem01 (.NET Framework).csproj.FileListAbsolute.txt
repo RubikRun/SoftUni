@@ -1,0 +1,7 @@
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem01 (.NET Framework)\Problem01 (.NET Framework)\bin\Debug\Problem01 (.NET Framework).exe.config
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem01 (.NET Framework)\Problem01 (.NET Framework)\bin\Debug\Problem01 (.NET Framework).exe
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem01 (.NET Framework)\Problem01 (.NET Framework)\bin\Debug\Problem01 (.NET Framework).pdb
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem01 (.NET Framework)\Problem01 (.NET Framework)\obj\Debug\Problem01 (.NET Framework).csprojResolveAssemblyReference.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem01 (.NET Framework)\Problem01 (.NET Framework)\obj\Debug\Problem01 (.NET Framework).csproj.CoreCompileInputs.cache
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem01 (.NET Framework)\Problem01 (.NET Framework)\obj\Debug\Problem01 (.NET Framework).exe
+C:\Programming\SoftUniLocal\C# ADVANCED\Stacks and Queues - Exercise\Problem01 (.NET Framework)\Problem01 (.NET Framework)\obj\Debug\Problem01 (.NET Framework).pdb
